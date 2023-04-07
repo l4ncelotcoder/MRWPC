@@ -1,0 +1,2 @@
+admin/wp-login.php
+wp-login.php
